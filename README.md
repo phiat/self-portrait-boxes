@@ -4,6 +4,8 @@ A Clojure library designed to recreate a [Processing](http://processing.org/) sk
 
 Uses [quil](https://github.com/quil/quil)
 
+** currently stuck on how to bring the processing video library into clojure.  probably need the jar? **
+
 ## Usage
 
 ```clojure
