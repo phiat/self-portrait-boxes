@@ -6,7 +6,11 @@ Uses [quil](https://github.com/quil/quil)
 
 **currently stuck on how to bring the processing video library into clojure.  probably need the jar?**
 
+update:  trying to incorporate [processing video libraries](https://github.com/processing/processing/tree/master/java/libraries/video) to work with quil.
+
 ## Usage
+
+in the works
 
 ```clojure
 
