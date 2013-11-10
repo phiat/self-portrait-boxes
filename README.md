@@ -10,7 +10,7 @@ update:  trying to incorporate [processing video libraries](https://github.com/p
 
 ## Usage
 
-in the works
+in the works.   currently exploring processing.video integration.
 
 ```clojure
 
